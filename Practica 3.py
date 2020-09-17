@@ -89,7 +89,7 @@ for numero1 in range(100,999):
                 maxPalindrome = producto
                 maxnum1 = numero1
                 maxnum2 = numero2
-print (maxPalindrome,maxnum1,maxnum2)
+print (maxPalindrome,"=",maxnum1,"x",maxnum2)
 
 #Punto 6
 
